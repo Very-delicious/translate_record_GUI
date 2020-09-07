@@ -3,10 +3,12 @@ Turn English words into Chinese and record
 
 # The package i used:
 
-csv
+1.csv
 
-googletrans
+2.googletrans
+
   the instruction to install -> conda install -c conda-forge googletrans
   
-tkinter
+  
+3.tkinter
 
